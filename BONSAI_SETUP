@@ -1,0 +1,6 @@
+you can use Claude 4.5 Sonnet for free with Bonsai + your Claude code.
+ 
+How to start:
+npm install -g @bonsai-ai/cli
+bonsai login
+bonsai start claude
